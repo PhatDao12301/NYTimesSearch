@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NYTimesSearch</string>
+    <string name="title_activity_search_config">SearchConfig</string>
+    <string name="begin_date">Begin Date</string>
+    <string name="news_desk_value">News Desk Value</string>
+    <string name="arts">Arts</string>
+    <string name="fashion_style">Fashion Style</string>
+    <string name="sports">Sports</string>
+    <string name="save">Save</string>
+    <string-array name="order">
+        <item>Newest</item>
+        <item>Oldest</item>
+    </string-array>
+</resources>
